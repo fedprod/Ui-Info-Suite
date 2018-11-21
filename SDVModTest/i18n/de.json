@@ -23,14 +23,14 @@
 	"ShowExperienceGain" : "Erfahrungspunkte anzeigen",
 	"ShowLocationOfTownsPeople" : "Stadtbewohner auf der Karte anzeigen",
 	"ShowBirthdayIcon" : "Geburtstagssymbol anzeigen",
-	"ShowHeartFills" : "Gefüllte Herzen anzeigen",
-	"ShowAnimalsNeedPets" : "Zeige Aufmerksamkeitsanimation für Tiere",
+	"ShowHeartFills" : "Herzfüllstände anzeigen",
+	"ShowAnimalsNeedPets" : "Aufmerksamkeitsanimation für Tiere anzeigen",
 	"DisplayCalendarAndBillboard" : "Aushang & Kalender im Menü anzeigen",
 	"ShowCropAndBarrelTooltip" : "Reife- und Produktionszeiten anzeigen",
-	"ShowItemEffectRanges" : "Reichweiten anzeigen (Sprinkler, etc)",
+	"ShowItemEffectRanges" : "Reichweiten (Sprinkler, etc) anzeigen",
 	"ShowExtraItemInformation" : "Gegenstandshinweise anzeigen",
 	"ShowTravelingMerchant" : "Reisenden Händler anzeigen",
 	"ShowHarvestPricesInShop" : "Erntepreise im Laden anzeigen",
 	"ShowWhenNewRecipesAreAvailable" : "\"Neues Rezept verfügbar\" anzeigen",
-	"ShowToolUpgradeStatus" : "Status des Werkzeugaufrüstung anzeigen"
+	"ShowToolUpgradeStatus" : "Status der Werkzeugaufrüstung anzeigen"
 }
